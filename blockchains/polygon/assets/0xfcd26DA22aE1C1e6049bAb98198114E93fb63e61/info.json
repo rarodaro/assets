@@ -1,0 +1,9 @@
+{
+  "name": "BigCoin",
+  "symbol": "BIG",
+  "decimals": 18,
+  "description": "BigCoin is a deflationary token with burn and dev fees.",
+  "website": "https://mojtakuin.com/crypto/BigCoin/logo.png",  
+  "explorer": "https://polygonscan.com/token/0xfcd26DA22aE1C1e6049bAb98198114E93fb63e61",
+  "status": "active",
+  "id": "0xfcd26DA22aE1C1e6049bAb98198114E93fb63e61"
